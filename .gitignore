@@ -1,0 +1,38 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers de logs
+*.log
+logs/
+
+# Fichiers temporaires
+tmp/
+temp/
+*.tmp
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers de configuration sensibles
+.env
+config.php
+wp-config.php
+
+# Dossiers de build
+dist/
+build/
+node_modules/
+
+# Fichiers de cache
+.cache/
+.sass-cache/ 

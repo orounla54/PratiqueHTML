@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Empêcher l'indexation des dossiers sensibles
+Disallow: /js/
+Disallow: /bootstrap/
+Disallow: /@flaticon/
+Disallow: /.vscode/
+
+# Sitemap (à créer plus tard)
+# Sitemap: https://votre-domaine.com/sitemap.xml 
